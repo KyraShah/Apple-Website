@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+#logo{
+    width: 30px;
+    height: 30px;
+}
+
+.divs {
+    background-color: #f7f7f7;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+
+#img-div {
+    height: 90%;
+}
+
+.button {
+    border-radius: 30px;
+    padding: 0.8;
+    width: 10%;
+    margin-bottom: 2%;
+}
+
+#text {
+    font-family: "Open Sans", sans-serif;
+}
+
+.button-outlined {
+    border-radius: 30px;
+    padding: 0.8;
+    width: 10%;
+    margin-bottom: 2%;
+}
+
+#iPhone {
+    background-color: black;
+    color: white;
+    padding-top: 2%;
+}
+
+#img-edu {
+    width: 60%;
+    height: 100%;
+}
+
+.edu {
+    margin: 0.5%;
+    padding-top: 5%;
+    background-color: #f7f7f7;
+}
+
+.button-edu {
+    border-radius: 30px;
+    padding: 0.8;
+    width: 12%;
+    margin-bottom: 2%;
+}
+
+#text1 {
+    font-family: "Open Sans", sans-serif;
+    color: grey;
+}
+
+.button-apple {
+    border-radius: 30px;
+    padding: 0.8;
+    width: 20%;
+    margin-bottom: 2%; 
+}
+
+#img-lap {
+    width: 80%;
+    float: right;
+}
+
+#apple {
+    margin: 0.5%;
+    background-color: #f7f7f7;
+    padding-top: 3%;
+}
+
+#img-apple {
+    width: 10%;
+    height: 100%;
+}
+
+.button-trade {
+    border-radius: 30px;
+    padding: 0.8;
+    width: 24%;
+    margin-bottom: 2%; 
+}
+
+#trade-img {
+    width: 100%;
+}
+
+#trade {
+    margin: 0.5%;
+    background-color: #f7f7f7;
+    padding-top: 3%;
+}
+
+.buy {
+    border-radius: 30px;
+    padding: 0.8;
+    width: 10%;
+    margin-bottom: 2%; 
+}
+
+#iPad {
+    width: 50%;
+    height: 100%;
+}
+
+#Ipad {
+    margin: 0.5%;
+    background-color: black;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 1%;
+}
+
+.button-learnmore {
+    border-radius: 30px;
+    padding: 0.8;
+    width: 16%;
+    margin-bottom: 2%; 
+}
+
+.carousel {
+    background-color: black;
+}
+
+.button-tv {
+    border-radius: 30px;
+    padding: 0.8;
+    width: 35%;
+    margin-bottom: 2%; 
+}
